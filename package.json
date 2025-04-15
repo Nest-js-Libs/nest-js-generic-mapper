@@ -1,6 +1,6 @@
 {
   "name": "@nest-js/generic-mapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NestJS error manager library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
