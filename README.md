@@ -129,21 +129,6 @@ export class ProductDto {
 }
 ```
 
-## Mejores Prácticas
-
-1. **Tipado Fuerte**: Utiliza TypeScript para aprovechar el sistema de tipos.
-2. **Validación**: Combina con class-validator para validación robusta.
-3. **Transformaciones**: Mantén las transformaciones simples y específicas.
-4. **Documentación**: Documenta los mapeos complejos para mantenibilidad.
-
-## Contribución
-
-Las contribuciones son bienvenidas. Por favor, asegúrate de:
-
-1. Crear tests para nuevas funcionalidades
-2. Seguir las convenciones de código existentes
-3. Actualizar la documentación según sea necesario
-
 ## Licencia
 
 MIT
